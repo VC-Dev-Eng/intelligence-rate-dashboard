@@ -11,7 +11,7 @@ The purpose of the intelligence dashboard is to calculate the average of interba
 
 ##Stretch 
 
-- [X] 1. As a user, I want to download the report (using PDF or CSV)
+- [X] 1. As a user, I want to download the report (using XLS, PDF, or CSV)
 - [ ] 1. As a user, I want to be able to see get the across 30 days with visible hourly rate for each day. 
 - [ ] 2. As a user, I want to be able to see the historical rates. 
 - [ ] 3. As a user, I want the dashboard to forecast the future rates. 
